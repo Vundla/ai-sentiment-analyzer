@@ -4,6 +4,7 @@ This is a lightweight, web-based Sentiment Analyzer powered by **OpenAI's API**.
 
 > Built with ❤️ using **HTML**, **CSS**, and **JavaScript**. No backend needed. Just pure frontend magic + OpenAI superpowers.
 
+DEMO LINK: (https://vundla.github.io/ai-sentiment-analyzer/)
 ---
 
 ## 🚀 Features
@@ -19,7 +20,7 @@ This is a lightweight, web-based Sentiment Analyzer powered by **OpenAI's API**.
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **AI Engine**: [OpenAI GPT and DEMO](http://localhost:51570/index.html?phcodeLivePreview=true)
+- **AI Engine**: [OpenAI GPT]
 - **API Key**: Your personal OpenAI key (keep it secret!)
 
 ---
